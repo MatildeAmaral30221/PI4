@@ -1562,7 +1562,7 @@ footer .logo-image {
     height: 380px;
   }
   .hero-image {
-    inset-left: 0;
+    left: 0;
   }
   .service-grid {
     grid-template-columns: 1fr;
